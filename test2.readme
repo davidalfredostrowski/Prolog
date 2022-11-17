@@ -1,0 +1,22 @@
+?- ['/Users/david/OneDrive/Documents/daveo/CompProgLangFall_2022/Prolog/test2.pl'].
+true.
+
+?- animal(dog).
+has fur?
+|: yes
+|: .
+says woof?
+|: yes.
+
+true.
+
+?- animal(cat).
+has fur?
+|: yes
+|: .
+says meow?
+|: no.
+
+false.
+
+?- 
