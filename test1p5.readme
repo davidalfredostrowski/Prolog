@@ -1,0 +1,17 @@
+?- ['/Users/david/OneDrive/Documents/daveo/CompProgLangFall_2022/Prolog/test1p5.pl'].
+true.
+
+?- friendship(X,Y).
+X = dan,
+Y = sally .
+
+?- acquaintance(X,Y).
+X = mary,
+Y = sam .
+
+?- ['/Users/david/OneDrive/Documents/daveo/CompProgLangFall_2022/Prolog/test1p5.pl'].
+true.
+
+?- acquaintance(X,Y).
+X = mary,
+Y = sam .
