@@ -1,0 +1,20 @@
+to query add the ';'  at the end of every inquiry
+
+
+
+?- [swi(demo/likes)].
+true.
+
+?- likes(sam,X).
+X = dahl .
+
+?- likes(sam,X).
+X = dahl ;
+X = tandoori ;
+X = kurma ;
+X = chow_mein ;
+X = chop_suey ;
+X = sweet_and_sour ;
+X = pizza ;
+X = spaghetti ;
+X = chips.
