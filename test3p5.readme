@@ -1,0 +1,13 @@
+?- ['/Users/david/OneDrive/Documents/daveo/CompProgLangFall_2022/Prolog/test3p5.pl'].
+true.
+
+?- bigger(X,Y).
+X = horse,
+Y = donkey .
+
+?- ['/Users/david/OneDrive/Documents/daveo/CompProgLangFall_2022/Prolog/test3.pl'].
+true.
+
+?- bigger(X,Y).
+X = elephant,
+Y = horse 
