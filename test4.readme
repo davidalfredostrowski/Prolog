@@ -1,0 +1,7 @@
+?- ['/Users/david/OneDrive/Documents/daveo/CompProgLangFall_2022/Prolog/test4.pl'].
+true.
+
+?- bird(X).
+X = black_footed_albatross .
+
+?- 
