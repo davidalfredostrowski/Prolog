@@ -1,0 +1,23 @@
+?- ['/Users/david/OneDrive/Documents/daveo/CompProgLangFall_2022/Prolog/test6.pl'].
+true.
+
+?- located_in(X, usa).
+X = atlanta ;
+X = denver ;
+X = boulder.
+
+?- located_in(X, canada).
+X = toronto.
+
+?- located_in(X, north_america).
+X = atlanta ;
+X = denver ;
+X = boulder ;
+X = toronto.
+
+?- located_in(X, georgia).
+X = atlanta.
+
+?- located_in(X, colorado).
+X = denver ;
+X = boulder.
