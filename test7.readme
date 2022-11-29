@@ -1,0 +1,10 @@
+?- ['/Users/david/OneDrive/Documents/daveo/CompProgLangFall_2022/Prolog/test7.pl'].
+Warning: c:/users/david/onedrive/documents/daveo/compproglangfall_2022/prolog/test7.pl:5:
+Warning:    Clauses of listensToMusic/1 are not together in the source-file
+Warning:    Earlier definition at c:/users/david/onedrive/documents/daveo/compproglangfall_2022/prolog/test7.pl:1
+Warning:    Current predicate: playsAirGuitar/1
+Warning:    Use :- discontiguous listensToMusic/1. to suppress this message
+true.
+
+?- happy(X).
+X = yolanda.
