@@ -1,0 +1,10 @@
+?- ['/Users/david/OneDrive/Documents/daveo/CompProgLangFall_2022/Prolog/test12.pl'].
+true.
+
+?- rich(X).
+X = yes.
+
+?- money(X).
+X = yes.
+
+?- 
