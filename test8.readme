@@ -1,0 +1,7 @@
+?- ['/Users/david/OneDrive/Documents/daveo/CompProgLangFall_2022/Prolog/test8.pl'].
+true.
+
+?- electrical_problem(X).
+X = yes.
+
+?- 
