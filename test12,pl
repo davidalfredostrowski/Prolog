@@ -1,0 +1,22 @@
+rich(yes):-
+	money(yes),
+	inheritance(yes),
+	job(yes).
+
+
+money(yes):-
+	bank_account(yes),
+	stocks(yes).
+
+inheritance(yes):-
+	rich_parents(yes),
+	good_relationship(yes),
+	elderly_parents(yes).
+
+
+rich_parents(yes).
+good_relationship(yes).
+elderly_parents(yes).
+bank_account(yes).
+stocks(yes).
+job(yes).
