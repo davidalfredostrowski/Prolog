@@ -1,0 +1,8 @@
+?- ['/Users/david/OneDrive/Documents/daveo/CompProgLangFall_2022/Prolog/test11.pl'].
+true.
+
+?- suspension_problems(X).
+Correct to: "suspension_problem(X)"? yes
+X = yes.
+
+?- 
