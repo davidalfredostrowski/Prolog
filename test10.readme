@@ -1,0 +1,14 @@
+
+?- ['/Users/david/OneDrive/Documents/daveo/CompProgLangFall_2022/Prolog/test10.pl'].
+true.
+
+?- electrical_problems(X).
+Correct to: "electrical_problem(X)"? 
+Please answer 'y' or 'n'? yes
+X = yes .
+
+?- electrical_problem(X).
+X = yes ;
+false.
+
+?- 
